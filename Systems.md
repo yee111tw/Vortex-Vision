@@ -1,4 +1,4 @@
-主流平台全支援： Vortex Vision 可完美兼容 SteamVR 與 Oculus PC 平台。這意味著你可以暢玩數萬款主流 VR 遊戲，從獨立開發者的創意小品到 3A 級的大製作，都能在 Vortex Vision 上獲得最佳體驗。
+主流平台全支援： Vortex Vision 可完美兼容 SteamVR 與 windows 平台。這意味著你可以暢玩數萬款主流 VR 遊戲，從獨立開發者的創意小品到 3A 級的大製作，都能在 Vortex Vision 上獲得最佳體驗。
 
 獨家內容生態圈： 我們自豪地推出了 「Vortex Universe」 內容平台。這裡匯聚了獨家為 Vortex Vision 最佳化的遊戲、3D 電影、教育課程與虛擬社交應用程式。透過我們的雲端串流技術，你無需強大的 PC，也能享受高品質的 VR 體驗。
 

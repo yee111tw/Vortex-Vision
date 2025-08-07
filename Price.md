@@ -7,7 +7,7 @@ Vortex Vision。看見未來，就在眼前。
 
 現在，你無需再等待。
 
-Vortex Vision 標準版： 新台幣 25,990元
+Vortex Vision 標準版： 新台幣 26900元
 
 包含：Vortex Vision 虛擬實境眼鏡主機、控制器一對、充電線、使用說明書。
 
